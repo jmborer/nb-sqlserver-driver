@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module: ch.skyguide.nimbus.nb.sqlserver.driver/1
+OpenIDE-Module-Localizing-Bundle: com/codealchemia/netbeans/sqlserver/driver/Bundle.properties
+OpenIDE-Module-Layer: com/codealchemia/netbeans/sqlserver/driver/layer.xml

@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+<!DOCTYPE driver PUBLIC '-//NetBeans//DTD JDBC Driver 1.1//EN' 'http://www.netbeans.org/dtds/jdbc-driver-1_2.dtd'>
+<driver>
+    <name value='MS SQL Server'/>
+    <display-name value='MS SQL Server'/>
+    <class value='com.microsoft.sqlserver.jdbc.SQLServerDriver'/>
+    <urls>
+        <url value="nbinst:///modules/ext/${project.groupId}.${project.artifactId}/${jdbc.groupId}/${jdbc.artifactId}.jar"/>
+    </urls>
+</driver>
